@@ -6,7 +6,7 @@
 
 </div>
 
-![atg0831's github stats](https://github-readme-stats.vercel.app/api?username=atg0831&show_icons=true&include_all_commits=true&theme=dracula)
+![atg0831's github stats](https://github-readme-stats.vercel.app/api?username=atg0831&show_icons=true&theme=dracula)
 <!--
 **atg0831/atg0831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
